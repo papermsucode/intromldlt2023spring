@@ -30,9 +30,9 @@ Classes are to be taught on Wednesdays at 16:45, online.
 * [Summary table with results will be shared soon]()
 
 ## <a name="program" /> Course program
-| Number        | Вate          | Lecture                                            |
+| Number        | Date          | Lecture                                            |
 | ------------- | ------------- | -------------                                      |   
-| 01            | 08.02.2020    | Empirical Risk and its Approximation. Loss Function. (Stochastic) Gradient Descent. MLE and MAP | 
+| 01            | 08.02.2023    | Empirical Risk and its Approximation. Loss Function. (Stochastic) Gradient Descent. MLE and MAP | 
 
 ## <a name="lit" /> Bibliography
 1. [Machine Learning Lecture Course](http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29) on http://www.machinelearning.ru from Vorontsov K.V.
@@ -46,6 +46,8 @@ Classes are to be taught on Wednesdays at 16:45, online.
 ### Introduction to machine learning
 * Homemade Machine Learning: [github repo](https://github.com/trekhleb/homemade-machine-learning)
 * Machine learning: [Course](https://www.coursera.org/learn/machine-learning) by Andrew Ng on the site https://www.coursera.org
+
+### Theoretic Courses
 * Foundations of Deep Learning: [Course](https://uclaml.github.io/CS269-Spring2021/) at UCLA
 * Deep learning theory: [Course](https://mjt.cs.illinois.edu/dlt/) at UIUC
 * Theoretical Deep Learning: [Course](https://www.cs.princeton.edu/courses/archive/fall19/cos597B/) at Princenton
