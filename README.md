@@ -30,9 +30,9 @@ Classes are to be taught on Wednesdays at 16:45, online.
 * [Summary table with results will be shared soon]()
 
 ## <a name="program" /> Course program
-| Number        | Date          | Lecture                                            |
-| ------------- | ------------- | -------------                                      |   
-| 01            | 08.02.2023    | Empirical Risk and its Approximation. Loss Function. (Stochastic) Gradient Descent. MLE and MAP. Kullback-Leibler divergence and Cross Entropy | 
+| Number        | Date          | Lecture                                            | Video            |
+| ------------- | ------------- | -------------                                      | -------------    |        
+| 01            | 08.02.2023    | Empirical Risk and its Approximation. Loss Function. (Stochastic) Gradient Descent. MLE and MAP. Kullback-Leibler divergence and Cross Entropy |  [lecture01](https://www.youtube.com/watch?v=vBgo_T7V5hE)   
 
 ## <a name="lit" /> Bibliography
 1. [Machine Learning Lecture Course](http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29) on http://www.machinelearning.ru from Vorontsov K.V.
