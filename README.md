@@ -50,4 +50,4 @@ Classes are to be taught on Wednesdays at 16:45, online.
 ### Theoretic Courses
 * Foundations of Deep Learning: [Course](https://uclaml.github.io/CS269-Spring2021/) at UCLA
 * Deep learning theory: [Course](https://mjt.cs.illinois.edu/dlt/) at UIUC
-* Theoretical Deep Learning: [Course](https://www.cs.princeton.edu/courses/archive/fall19/cos597B/) at Princenton
+* Theoretical Deep Learning: [Course](https://www.cs.princeton.edu/courses/archive/fall19/cos597B/) at Princeton
