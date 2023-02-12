@@ -14,7 +14,7 @@
 * The first lecture will take place on Wednesday 8, February, at 16:45 (online) 
 
 ## <a name="info" /> Short info 
-In the spring semester of 2023 at the Faculty of Mechanics and Mathematics of Lomonosov Moscow State University a new special course of the student's choice, dedicated to the theory of machine learning and deep learning, is to be provided.
+In the spring semester of 2023 at the Faculty of Mechanics and Mathematics of Lomonosov Moscow State University a new special [course](https://scs.math.msu.ru/node/3164) of the student's choice, dedicated to the theory of machine learning and deep learning, is to be provided.
 
 The course will be taught on the basis of the Department of [Mathematical Theory of Intelligent Systems](http://intsys.msu.ru/en/) under the guidance of Ph.D., Senior Researcher [Mazurenko I.L.](http://intsys.msu.ru/staff/mazurenko/) The course will be taught by Ph.D. [Petiushko A.A.](https://petiushko.info)
 
