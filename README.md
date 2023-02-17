@@ -38,6 +38,7 @@ Classes are to be taught on Wednesdays at 16:45, online.
 
 ## <a name="project" /> Projects proposals
 1. Investigate Neural Collapse on different datasets (MNIST, Omniglot, LFW, ...)
+2. Make a comparison study of angular-based losses vs metric-based ones on different datasets (MNIST, Omniglot, LFW, ...)
 
 ## <a name="lit" /> Bibliography
 1. [Machine Learning Lecture Course](http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29) on http://www.machinelearning.ru from Vorontsov K.V.
