@@ -34,7 +34,8 @@ Classes are to be taught on Wednesdays at 16:45, online.
 | Number        | Date          | Lecture                                            | Video            |
 | ------------- | ------------- | -------------                                      | -------------    |        
 | 01            | 08.02.2023    | Empirical Risk and its Approximation. Loss Function. (Stochastic) Gradient Descent. MLE and MAP. Kullback-Leibler divergence and Cross Entropy |  [lecture01](https://www.youtube.com/watch?v=vBgo_T7V5hE)   |
-| 02            | 15.02.2023    | FaceID: Evolution of Loss Function |  [lecture02](https://www.youtube.com/watch?v=4dwmNbMqcwg)   
+| 02            | 15.02.2023    | FaceID: Evolution of Loss Function |  [lecture02](https://www.youtube.com/watch?v=4dwmNbMqcwg)  |
+| 03            | 22.02.2023    | Generative Adversarial Networks |  [lecture03](https://www.youtube.com/watch?v=qb-4TQIUrzY)  |
 
 ## <a name="project" /> Projects proposals
 1. Investigate Neural Collapse on different datasets (MNIST, Omniglot, LFW, ...)
