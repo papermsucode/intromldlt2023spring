@@ -44,8 +44,8 @@ Classes are to be taught on Wednesdays at 16:45, online.
 2. Make a comparison study of angular-based losses vs metric-based ones on different datasets (MNIST, Omniglot, LFW, ...)
 3. Think of evaluation metric for GAN solution (aside from [Inception Score](https://en.wikipedia.org/wiki/Inception_score) / [Frechet Inception Distance](https://en.wikipedia.org/wiki/Fréchet_inception_distance)) and make a coparison study of this metric for different GAN solution: vanilla GAN, WGAN, WGAN-GP
 4. Implement and analyze the BNN recognition results using different priors for weights (Uniform, Gaussian, Laplace) on different datasets (MNIST, Omniglot, LFW, ...)
-  * Do it with Variational Inference
-  * Do it with MCMC
+    1. Do it with Variational Inference
+    2. Do it with MCMC
 
 ## <a name="lit" /> Bibliography
 1. [Machine Learning Lecture Course](http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29) on http://www.machinelearning.ru from Vorontsov K.V.
