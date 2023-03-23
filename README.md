@@ -47,6 +47,10 @@ Classes are to be taught on Wednesdays at 16:45, online.
 4. Implement and analyze the BNN recognition results using different priors for weights (Uniform, Gaussian, Laplace) on different datasets (MNIST, Omniglot, LFW, ...)
     1. Do it with Variational Inference
     2. Do it with MCMC
+5. Explore the Diffusion generation quality vs number of steps on different datasets (MNIST, Omniglot, LFW, ...)
+    1. Do it with unconditional generation
+    2. Do it with classifier(-free) guidance
+    3. Explore different strategies of $\alpha$ ($\beta$) decrease schedule
 
 ## <a name="lit" /> Bibliography
 1. [Machine Learning Lecture Course](http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29) on http://www.machinelearning.ru from Vorontsov K.V.
