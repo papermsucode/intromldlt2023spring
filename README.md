@@ -38,6 +38,7 @@ Classes are to be taught on Wednesdays at 16:45, online.
 | 03            | 22.02.2023    | [Discriminate vs Generative models. Generative Adversarial Networks. Deep Convolutional GAN. Wasserstein GAN. Gradient-Penalty WGAN. Conditional GAN.](/lectures/MM_lecture03-GAN.pdf) |  [lecture03](https://www.youtube.com/watch?v=qb-4TQIUrzY)  |
 | 04            | 01.03.2023    | [Bayesian Inference, Bayesian Neural Network, Variational Inference, Autoencoder, Variational Autoencoder, Conditional Variational Autoencoder](/lectures/MM_lecture04-VI_AE_VAE_CVAE.pdf) |  [lecture04](https://www.youtube.com/watch?v=Wf-Hm0SzP5s)  |
 | 05            | 15.03.2023    | [Recap of Markov Chains. Markov Chain Monte Carlo. Gibbs sampler. Metropolis-Hastings sampler. Langevin dynamics and Metropolis-Adjusted Langevin. Stochastic Gradient Langevin Dynamics](/lectures/MM_lecture05-MCMC.pdf) |  [lecture05](https://www.youtube.com/watch?v=FzXEP_JHTgw)  |
+| 06            | 22.03.2023    | [Recap of Variational Auto Encoder. Markovian Hierarchical VAE. Diffusion models: Variational Diffusion Models, Diffusion Denoising Probabilistic Models, Diffusion Denoising Implicit Models, Classifier and classifier-free guidance, 3 interpretations](/lectures/MM_lecture06-Diffusion.pdf) |  [lecture06](https://www.youtube.com/watch?v=zeYZfeuvxDk)  |
 
 ## <a name="project" /> Projects proposals
 1. Investigate Neural Collapse on different datasets (MNIST, Omniglot, LFW, ...)
