@@ -52,6 +52,9 @@ Classes are to be taught on Wednesdays at 16:45, online.
     1. Do it with unconditional generation
     2. Do it with classifier(-free) guidance
     3. Explore different strategies of $\alpha$ ($\beta$) decrease schedule
+5. Make a quantitave and qualitative analysis of different $l_0/l_1/l_2/l_{\infty}$-based Adversarial Attacks (success rate, number of iterations, etc) on different datasets (MNIST, Omniglot, LFW, ...)
+    1. Do it for the Universal Adversarial Attack as well
+    2. Compare the transferability for different NN architectures (LeNet, VGG, ResNet, etc)
 
 ## <a name="lit" /> Bibliography
 1. [Machine Learning Lecture Course](http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29) on http://www.machinelearning.ru from Vorontsov K.V.
