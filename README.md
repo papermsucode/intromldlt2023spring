@@ -40,6 +40,7 @@ Classes are to be taught on Wednesdays at 16:45, online.
 | 05            | 15.03.2023    | [Recap of Markov Chains. Markov Chain Monte Carlo. Gibbs sampler. Metropolis-Hastings sampler. Langevin dynamics and Metropolis-Adjusted Langevin. Stochastic Gradient Langevin Dynamics](/lectures/MM_lecture05-MCMC.pdf) |  [lecture05](https://www.youtube.com/watch?v=FzXEP_JHTgw)  |
 | 06            | 22.03.2023    | [Recap of Variational Autoencoder. Markovian Hierarchical VAE. Diffusion models: Variational Diffusion Models, Diffusion Denoising Probabilistic Models, Diffusion Denoising Implicit Models, Classifier and classifier-free guidance, 3 interpretations](/lectures/MM_lecture06-Diffusion.pdf) |  [lecture06](https://www.youtube.com/watch?v=zeYZfeuvxDk)  |
 | 07            | 29.03.2023    | [Adversarial Robustness I: Great Success of CNNs, Robustness Phenomenon, Taxonomy of Adversarial Attacks, l_p norms, Digital Domain, Fast Gradient Sign Method and its variants, Universal Attacks, Top-k Attacks, l_0 attacks](/lectures/MM_lecture07-AdvRob_I_Digital.pdf) |  [lecture07](https://www.youtube.com/watch?v=iWjErgoxJuo)  |
+| 08            | 12.04.2023    | [Adversarial Robustness II: Adversarial examples in real world, Adversarial attack on Face detection and Face ID systems, Defense from adversarial examples in real world, Black-box Face restoration](/lectures/MM_lecture08-AdvRob_II_Real.pdf) |  [lecture08](https://www.youtube.com/watch?v=aQe5a6rLaF8)  |
 
 ## <a name="project" /> Projects proposals
 1. Investigate Neural Collapse on different datasets (MNIST, Omniglot, LFW, ...)
@@ -52,9 +53,10 @@ Classes are to be taught on Wednesdays at 16:45, online.
     1. Do it with unconditional generation
     2. Do it with classifier(-free) guidance
     3. Explore different strategies of $\alpha$ ($\beta$) decrease schedule
-5. Make a quantitave and qualitative analysis of different $l_0/l_1/l_2/l_{\infty}$-based Adversarial Attacks (success rate, number of iterations, etc) on different datasets (MNIST, Omniglot, LFW, ...)
+6. Make a quantitave and qualitative analysis of different $l_0/l_1/l_2/l_{\infty}$-based Adversarial Attacks (success rate, number of iterations, etc) on different datasets (MNIST, Omniglot, LFW, ...)
     1. Do it for the Universal Adversarial Attack as well
     2. Compare the transferability for different NN architectures (LeNet, VGG, ResNet, etc)
+7. Create a real-world attack demo for any detection/recognition system
 
 ## <a name="lit" /> Bibliography
 1. [Machine Learning Lecture Course](http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29) on http://www.machinelearning.ru from Vorontsov K.V.
