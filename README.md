@@ -41,6 +41,7 @@ Classes are to be taught on Wednesdays at 16:45, online.
 | 06            | 22.03.2023    | [Recap of Variational Autoencoder. Markovian Hierarchical VAE. Diffusion models: Variational Diffusion Models, Diffusion Denoising Probabilistic Models, Diffusion Denoising Implicit Models, Classifier and classifier-free guidance, 3 interpretations](/lectures/MM_lecture06-Diffusion.pdf) |  [lecture06](https://www.youtube.com/watch?v=zeYZfeuvxDk)  |
 | 07            | 29.03.2023    | [Adversarial Robustness I: Great Success of CNNs, Robustness Phenomenon, Taxonomy of Adversarial Attacks, l_p norms, Digital Domain, Fast Gradient Sign Method and its variants, Universal Attacks, Top-k Attacks, l_0 attacks](/lectures/MM_lecture07-AdvRob_I_Digital.pdf) |  [lecture07](https://www.youtube.com/watch?v=iWjErgoxJuo)  |
 | 08            | 12.04.2023    | [Adversarial Robustness II: Adversarial examples in real world, Adversarial attack on Face detection and Face ID systems, Defense from adversarial examples in real world, Black-box Face restoration](/lectures/MM_lecture08-AdvRob_II_Real.pdf) |  [lecture08](https://www.youtube.com/watch?v=aQe5a6rLaF8)  |
+| 09            | 19.04.2023    | [Certified Robustness I: definitions of Certified Robustness, connection to Lipschitzness, Randomized Smoothing and its variants](/lectures/MM_lecture09-CertRob_I_RS.pdf) |  [lecture09](https://www.youtube.com/watch?v=Rg4OJXQE3K4)  |
 
 ## <a name="project" /> Projects proposals
 1. Investigate Neural Collapse on different datasets (MNIST, Omniglot, LFW, ...)
