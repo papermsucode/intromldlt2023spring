@@ -5,7 +5,7 @@
 * [Short info](#info)
 * [Time and place](#ww)
 * [Communication with teachers](#feedback)
-* [Task results](#marks)
+* [Exam/projects results](#marks)
 * [Course program](#program)
 * [Projects proposals](#project)
 * [Bibliography](#lit)
@@ -29,8 +29,8 @@ Classes are to be taught on Wednesdays at 16:45, online.
 * Feedback - by email papermsucode@gmail.com
 * Well, you can always write in [issues](https://github.com/papermsucode/intromldlt2023spring/issues) :)
 
-## <a name="marks" /> Task results
-* [Summary table with results will be shared soon]()
+## <a name="marks" /> Exam/projects results
+* [Summary table](https://docs.google.com/spreadsheets/d/1Aancxuc7vn3w69vca_wkvs-zSz2qwsbvAbC8P4_5MkY/edit)
 
 ## <a name="program" /> Course program
 | Number        | Date          | Lecture                                            | Video            |
