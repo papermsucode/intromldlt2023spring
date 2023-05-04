@@ -45,6 +45,7 @@ Classes are to be taught on Wednesdays at 16:45, online.
 | 08            | 12.04.2023    | [Adversarial Robustness II: Adversarial examples in real world, Adversarial attack on Face detection and Face ID systems, Defense from adversarial examples in real world, Black-box Face restoration](/lectures/MM_lecture08-AdvRob_II_Real.pdf) |  [lecture08](https://www.youtube.com/watch?v=aQe5a6rLaF8)  |
 | 09            | 19.04.2023    | [Certified Robustness I: definitions of Certified Robustness, connection to Lipschitzness, Randomized Smoothing and its variants](/lectures/MM_lecture09-CertRob_I_RS.pdf) |  [lecture09](https://www.youtube.com/watch?v=Rg4OJXQE3K4)  |
 | 10            | 26.04.2023    | [Certified Robustness II: recap of Certified Robustness, Ablations on base classifier/norm of perturbation/smoothing distribution, Certification in High Dimensional case, Certification of Semantic Perturbations, Application to different Computer Vision tasks](/lectures/MM_lecture10-CertRob_II_HighDim.pdf) |  [lecture10](https://www.youtube.com/watch?v=kuV1_YFpGo0)  |
+| 11            | 03.05.2023    | [Neural Tangent Kernel: Lazy regime of training, GD as PDE, NTK and CNTK, NTK convergence rates](/lectures/MM_lecture11-NTK.pdf) |  [lecture11](MM_lecture11-NTK.pdf)  |
 
 ## <a name="project" /> Projects proposals
 1. Investigate Neural Collapse on different datasets (MNIST, Omniglot, LFW, ...)
