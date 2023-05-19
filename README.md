@@ -12,9 +12,11 @@
 * [Useful links](#links)
 
 ## <a name="news" /> News
+* **Projects** added to the [projects](/projects/) folder
+* Second round of **exam** will take place on **May 17th** at 17:00.
 * **Exam** will take place **online** right after the 11th lecture on **May 3rd**. Topics to learn: first 10 lectures. The participants should send an e-mail to papermsucode@gmail.com in advance with e-mail topic [MM MLDL Exam] and mentioning their names, course, and group inside the e-mail body. 
   * The projects should be sent via the same e-mail with e-mail topic [MM MLDL Project] and mentioning their names, course, and group inside the e-mail body + link to the code + link to the presentation with results. 
-* The first lecture will take place on Wednesday 8, February, at 16:45 (online) 
+* The **first lecture** will take place on Wednesday, **February 8th**, at 16:45 (online) 
 
 ## <a name="info" /> Short info 
 In the spring semester of 2023 at the Faculty of Mechanics and Mathematics of Lomonosov Moscow State University a new special [course](https://scs.math.msu.ru/node/3164) of the student's choice, dedicated to the theory of machine learning and deep learning, is to be provided.
